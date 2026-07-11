@@ -2,6 +2,8 @@
 
 **Datum poslednje izmene:** 11. jul 2026.
 
+**Other language:** [English](./PRIVACY_POLICY_FREE_CV_EN.md)
+
 ## 1. Uvod
 
 Ova Politika privatnosti opisuje kako aplikacija **Free CV** („aplikacija“, „mi“) prikuplja, koristi i štiti vaše podatke. Korišćenjem aplikacije i web servisa na [cv.hexatech.rs](https://cv.hexatech.rs) prihvatate uslove opisane u ovoj politici.
