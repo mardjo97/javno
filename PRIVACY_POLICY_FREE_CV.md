@@ -1,23 +1,20 @@
-# Politika privatnosti – Free CV
+# Politika privatnosti – CV Maker
 
-**Datum poslednje izmene:** 11. jul 2026.
-
-**Other language:** [English](./PRIVACY_POLICY_FREE_CV_EN.md)
+**Datum poslednje izmene: 15. avgust 2026. · [Brisanje naloga](https://hexatech.rs/account-deletion/cvmaker)**
 
 ## 1. Uvod
 
-Ova Politika privatnosti opisuje kako aplikacija **Free CV** („aplikacija“, „mi“) prikuplja, koristi i štiti vaše podatke. Korišćenjem aplikacije i web servisa na [cv.hexatech.rs](https://cv.hexatech.rs) prihvatate uslove opisane u ovoj politici.
+Ova Politika privatnosti opisuje kako aplikacija **CV Maker** (ranije Free CV; „aplikacija“, „mi“) prikuplja, koristi i štiti vaše podatke. Korišćenjem aplikacije i web servisa na [cv.hexatech.rs](https://cv.hexatech.rs) prihvatate uslove opisane u ovoj politici.
 
 Aplikaciju razvija Hexatech. Za pitanja o privatnosti možete nas kontaktirati na adresu navedenu u odeljku Kontakt.
-
----
 
 ## 2. Podaci koje prikupljamo
 
 ### 2.1 Podaci koje nam vi dajete
 
 - **Nalog:** korisničko ime, email adresa, lozinka (u šifrovanoj formi). Ovi podaci su neophodni za kreiranje naloga i prijavu.
-- **Sadržaj biografije:** lični podaci, iskustvo, obrazovanje, veštine i ostale informacije koje unesete u CV. Ovi podaci se čuvaju na našim serverima kako biste im pristupali sa web aplikacije ili mobilnog uređaja.
+- **Sadržaj biografije:** ime, kontakt, telefon, iskustvo, obrazovanje, veštine i ostale informacije koje unesete u CV. Čuvaju se na našim serverima da biste im pristupali sa weba ili telefona.
+- **Sesija:** token za prijavu čuva se lokalno na uređaju ili u pregledaču (nije oglasni kolačić).
 
 ### 2.2 Podaci koje prikupljamo automatski
 
@@ -28,8 +25,6 @@ Aplikaciju razvija Hexatech. Za pitanja o privatnosti možete nas kontaktirati n
 
 Ne prodajemo vaše podatke. Ne prikupljamo lokaciju u pozadini, ne pratimo vas za oglašavanje niti delimo vaše podatke sa trećim stranama u marketinške svrhe. Aplikacija ne prikazuje reklame.
 
----
-
 ## 3. Svrha obrade podataka
 
 Vaše podatke koristimo isključivo za:
@@ -39,14 +34,10 @@ Vaše podatke koristimo isključivo za:
 - **Pravne obaveze:** ukoliko zakon to zahteva.
 - **Poboljšanje usluge:** otklanjanje grešaka i unapređenje aplikacije.
 
----
-
 ## 4. Pravni osnov obrade
 
 - **Izvršenje ugovora:** obrada je neophodna za pružanje usluge koju ste prihvatili.
 - **Legitimni interes:** za bezbednost, zaštitu od zloupotrebe i održavanje servisa.
-
----
 
 ## 5. Čuvanje podataka
 
@@ -55,16 +46,13 @@ Vaše podatke koristimo isključivo za:
 - Lozinke se ne čuvaju u čitljivoj formi; koristimo industrijske standarde za hashovanje.
 - Saobraćaj između aplikacije i servera šifruje se putem HTTPS protokola.
 
----
-
 ## 6. Deljenje podataka sa trećim stranama
 
-- **Hosting i infrastruktura:** koristimo pouzdane pružaoce usluga za servere, bazu podataka i rezervne kopije. Obrada je ograničena na pružanje usluge u naše ime.
+- **Hosting i infrastruktura:** Hetzner (serveri i baza u Nemačkoj). Obrada je ograničena na pružanje usluge u naše ime.
+- **Google Play:** distribucija Android aplikacije podleže Google pravilima.
 - **Zakonske obaveze:** u slučaju zakonskog zahteva možemo biti obavezni da predamo podatke nadležnim organima.
 
 Ne prodajemo i ne ustupamo vaše podatke trećim stranama u marketinške svrhe.
-
----
 
 ## 7. Vaša prava
 
@@ -72,36 +60,28 @@ U skladu sa važećim propisima (uključujući GDPR, gde se primenjuje), imate p
 
 - zatražite pristup, ispravku ili brisanje vaših podataka;
 - ograničite obradu ili uložite prigovor;
-- podnesete žalbu nadležnom organu za zaštitu podataka.
+- podnesete žalbu Povereniku za informacije od javnog značaja i zaštitu podataka o ličnosti (Srbija) ili drugom nadležnom organu.
 
-Za ostvarivanje prava pošaljite zahtev na kontakt ispod.
-
----
+Za ostvarivanje prava pošaljite zahtev na kontakt ispod. Odgovaramo u roku propisanom zakonom (obično do 30 dana). Nalog možete sami obrisati: [brisanje naloga](https://hexatech.rs/account-deletion/cvmaker).
 
 ## 8. Bezbednost
 
 Primenjujemo odgovarajuće tehničke i organizacione mere da zaštitimo vaše podatke od neovlašćenog pristupa, gubitka ili zloupotrebe.
 
----
-
 ## 9. Deca
 
 Usluga nije namenjena deci ispod 16 godina. Ako saznamo da smo prikupili podatke od deteta bez odgovarajućeg pristanka, preduzećemo korake da te podatke obrišemo.
-
----
 
 ## 10. Izmene politike privatnosti
 
 Možemo povremeno ažurirati ovu politiku. O značajnim izmenama obavestićemo vas putem aplikacije ili emaila. Datum poslednje izmene biće naveden na početku dokumenta.
 
----
-
 ## 11. Kontakt
 
-- **Email:** hexatech.rs@gmail.com
-- **Aplikacija:** Free CV
+- **Email:** [hexatech.rs@gmail.com](mailto:hexatech.rs@gmail.com)
+- **Aplikacija:** CV Maker
 - **Web:** [https://cv.hexatech.rs](https://cv.hexatech.rs)
 
 ---
 
-*Ova politika je dostupna u GitHub repozitorijumu [mardjo97/javno](https://github.com/mardjo97/javno) i u aplikaciji Free CV.*
+Kanonski URL: https://hexatech.rs/privacy/cvmaker

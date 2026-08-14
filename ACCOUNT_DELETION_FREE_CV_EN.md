@@ -1,11 +1,13 @@
-# Account deletion – Free CV
+# Account deletion – CV Maker
 
-**Last updated:** July 11, 2026.
-
-**Srpski:** [ACCOUNT_DELETION_FREE_CV.md](./ACCOUNT_DELETION_FREE_CV.md)
+**Last updated: 11 July 2026. · [Privacy policy](https://hexatech.rs/privacy/cvmaker)**
 
 Users can delete their account at:
 
-https://cv.hexatech.rs/account-deletion
+[cv.hexatech.rs/account-deletion](https://cv.hexatech.rs/account-deletion)
 
 They must enter their username or email and password. Deletion is permanent and removes all CVs and related account data.
+
+---
+
+Canonical URL: https://hexatech.rs/account-deletion/cvmaker

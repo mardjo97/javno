@@ -1,18 +1,13 @@
 # Brisanje naloga – Pčelinjak
 
-**Datum poslednje izmene:** 9. avgust 2026.
+**Datum poslednje izmene: 15. avgust 2026. · [Politika privatnosti](https://hexatech.rs/privacy/pcelinjak)**
 
-**English:** [ACCOUNT_DELETION_PCELINJAK_EN.md](./ACCOUNT_DELETION_PCELINJAK_EN.md)
+Nalog obrišite u aplikaciji: **Profil → Obriši nalog**, uz potvrdu lozinke.
 
-Korisnici mogu sami obrisati nalog u mobilnoj aplikaciji **Pčelinjak**:
+Brisanje je trajno: uklanja podatke na serveru i lokalno na tom telefonu (košnice, matica, prinosi, radovi, podsetnici).
 
-1. Otvorite aplikaciju i prijavite se.
-2. Idite na **Podešavanja**.
-3. Izaberite **Obriši nalog**.
-4. Potvrdite unosom lozinke.
+Ako nemate pristup aplikaciji, pišite sa email adrese naloga na [hexatech.rs@gmail.com](mailto:hexatech.rs@gmail.com).
 
-Brisanje je trajno. Brišu se nalog i svi povezani podaci na serveru (pčelinjaci, košnice, matici, napomene, prinosi, kontrole, grupe rada, podsetnici) kao i lokalni podaci na tom uređaju.
+---
 
-Aplikacija: `rs.hexatech.pcelinjak`  
-Web / API: https://pcelinjak.hexatech.rs  
-Kontakt: hexatech.rs@gmail.com
+Kanonski URL: https://hexatech.rs/account-deletion/pcelinjak

@@ -1,21 +1,20 @@
 # Politika privatnosti – Farma
 
-**Datum poslednje izmene:** 16. mart 2025.
+**Datum poslednje izmene: 15. avgust 2026. · [Brisanje naloga](https://hexatech.rs/account-deletion/farma)**
 
 ## 1. Uvod
 
 Ova Politika privatnosti opisuje kako aplikacija **Farma** („aplikacija“, „mi“) prikuplja, koristi i štiti vaše podatke. Korišćenjem aplikacije prihvatate uslove opisane u ovoj politici.
 
-Aplikaciju razvija i vodi tim Farma. Za pitanja o privatnosti možete nas kontaktirati putem informacija navedenih na kraju dokumenta.
-
----
+Aplikaciju razvija i vodi tim Farma (Hexatech). Za pitanja o privatnosti možete nas kontaktirati putem informacija navedenih na kraju dokumenta.
 
 ## 2. Podaci koje prikupljamo
 
 ### 2.1 Podaci koje nam vi dajete
 
-- **Nalog:** email adresa, lozinka (u šifrovanoj formi). Ovi podaci su neophodni za kreiranje naloga i prijavu.
-- **Sadržaj koji unesete u aplikaciju:** podaci o farmama, grupama, životinjama, događajima i podsetnicima koje kreirajte. Ovi podaci se čuvaju na našim serverima kako biste im pristupali sa svog uređaja.
+- **Nalog:** email, ime i lozinka (u šifrovanoj formi). Ovi podaci su neophodni za kreiranje naloga i prijavu.
+- **Sadržaj koji unesete u aplikaciju:** podaci o farmama, grupama, životinjama, događajima i podsetnicima. Čuvaju se na našim serverima da biste im pristupali sa uređaja.
+- **Feedback:** ako pošaljete predlog, prijavu greške ili zamerku, poruka se čuva na serveru radi unapređenja aplikacije.
 
 ### 2.2 Podaci koje prikupljamo automatski
 
@@ -26,18 +25,15 @@ Aplikaciju razvija i vodi tim Farma. Za pitanja o privatnosti možete nas kontak
 
 Ne prodajemo vaše podatke. Ne prikupljamo lokaciju u pozadini, ne pratimo vas za oglašavanje niti delimo vaše podatke sa trećim stranama u marketinške svrhe.
 
----
-
 ## 3. Svrha obrade podataka
 
 Vaše podatke koristimo isključivo za:
 
-- **Pružanje usluge:** omogućavanje prijave, sinhronizacije i čuvanja vaših farmi, životinja, događaja i podsetnika.
+- **Pružanje usluge:** prijava, sinhronizacija i čuvanje farmi, životinja, događaja i podsetnika.
+- **Email:** aktivacija naloga i reset lozinke sa adrese noreply@hexatech.rs.
 - **Bezbednost:** zaštita naloga i sprečavanje zloupotrebe.
-- **Pravno obaveze:** ukoliko zakon to zahteva.
+- **Pravne obaveze:** ukoliko zakon to zahteva.
 - **Poboljšanje usluge:** anonimizovana ili agregirana statistika u cilju unapređenja aplikacije (bez identifikacije pojedinačnih korisnika, u skladu sa zakonom).
-
----
 
 ## 4. Pravni osnov obrade
 
@@ -45,25 +41,21 @@ Vaše podatke koristimo isključivo za:
 - **Vaša saglasnost:** gde je potrebna, tražićemo vašu saglasnost (npr. za opciona obaveštenja ili dodatne funkcije).
 - **Legitimni interes:** za bezbednost, zaštitu od zloupotrebe i unapređenje kvaliteta usluge u meri dozvoljenoj zakonom.
 
----
+## 5. Čuvanje podataka
 
-## 5. Čuvanje i čuvanje podataka
-
-- Podaci se čuvaju na serverima u Evropi (ili na lokaciji koju koristi naš hosting provajder), u skladu sa važećim propisima.
+- Podaci se čuvaju na serverima u Evropi (Hetzner, Nemačka), u skladu sa važećim propisima.
 - Podatke čuvamo dok je vaš nalog aktivan i u periodu neophodnom za ispunjavanje zakonskih obaveza nakon brisanja naloga.
-- Lozinke se ne čuvaju u čitljivoj formi; koristimo industrijske standarde za hashovanje i zaštitu.
-
----
+- Lozinke se ne čuvaju u čitljivoj formi; koristimo industrijske standarde za hashovanje i zaštitu. Saobraćaj ide preko HTTPS.
 
 ## 6. Deljenje podataka sa trećim stranama
 
-- **Hosting i infrastruktura:** koristimo pouzdane pružaoce usluga za servere i mrežu. Ugovori sa njima obezbeđuju zaštitu podataka i dozvoljavaju obradu samo u našem ime.
+- **Hosting:** Hetzner (serveri i baza) – obrada samo u naše ime.
+- **Email:** SMTP (Loopia) za aktivaciju i reset lozinke.
+- **Google Play:** distribucija Android aplikacije podleže Google pravilima.
 - **Zakonske obaveze:** u slučaju zakonskog zahteva (npr. sudski nalog) možemo biti obavezni da predamo podatke nadležnim organima.
-- **Prodaja ili transfer:** u slučaju prodaje kompanije ili imovine, podaci mogu biti deo tog transfera; u tom slučaju obavešćemo vas u skladu sa zakonom.
+- **Prodaja ili transfer:** u slučaju prodaje kompanije ili imovine, podaci mogu biti deo tog transfera; u tom slučaju obavestićemo vas u skladu sa zakonom.
 
 Ne prodajemo i ne ustupamo vaše podatke trećim stranama u marketinške svrhe.
-
----
 
 ## 7. Vaša prava
 
@@ -75,39 +67,27 @@ U skladu sa važećim propisima (uključujući GDPR, ako se primenjuju), imate p
 - **Ograničenje obrade:** zatražite da se obrada privremeno ograniči u određenim situacijama.
 - **Prenosivost:** zatražite predaju podataka u struktuiranoj, uobičajenoj formi (gde je tehnički moguće).
 - **Prigovor:** uložite prigovor na obradu koja se zasniva na legitimnom interesu.
-- **Žalba:** podnete žalbu nadležnom organu za zaštitu podataka (u Republici Srbiji: Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti).
+- **Žalba:** podnesete žalbu nadležnom organu za zaštitu podataka (u Republici Srbiji: Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti).
 
-Za ostvarivanje ovih prava pošaljite nam zahtev na kontakt naveden ispod. Odgovorićemo u roku propisanom zakonom.
-
----
+Za ostvarivanje ovih prava pošaljite nam zahtev na kontakt naveden ispod. Odgovorićemo u roku propisanom zakonom (obično do 30 dana). Brisanje naloga: [uputstvo](https://hexatech.rs/account-deletion/farma).
 
 ## 8. Bezbednost
 
 Primenjujemo odgovarajuće tehničke i organizacione mere da zaštitimo vaše podatke od neovlašćenog pristupa, gubitka ili zloupotrebe (šifrovanje, ograničen pristup, redovne provere).
 
----
-
 ## 9. Deca
 
-Usluga nije namenjena decom ispod 16 godina. Ako saznamo da smo prikupili podatke od deteta ispod 16 godina bez roditeljskog pristanka, preduzećemo korake da te podatke obrišemo.
-
----
+Usluga nije namenjena deci mlađoj od 16 godina. Ako saznamo da smo prikupili podatke od deteta mlađeg od 16 godina bez roditeljskog pristanka, preduzećemo korake da te podatke obrišemo.
 
 ## 10. Izmene politike privatnosti
 
 Možemo povremeno ažurirati ovu politiku. O značajnim izmenama ćemo vas obavestiti putem aplikacije ili emaila. Datum poslednje izmene biće naveden na početku dokumenta. Nastavak korišćenja aplikacije nakon objave izmena smatra se prihvatanjem nove verzije.
 
----
-
 ## 11. Kontakt
 
-Za pitanja u vezi sa privatnošću i za ostvarivanje vaših prava možete nas kontaktirati:
-
-- **Email:** [vaš-email@domen.com]
-- **Aplikacija:** Farma
-
-Zamenite `[vaš-email@domen.com]` stvarnom kontakt email adresom pre objave.
+- **Email:** [hexatech.rs@gmail.com](mailto:hexatech.rs@gmail.com)
+- **Aplikacija:** Farma (Podešavanja → Politika privatnosti)
 
 ---
 
-*Ova politika je dostupna i u aplikaciji Farma (Podešavanja → Politika privatnosti) i na ovom GitHub repozitorijumu.*
+Kanonski URL: https://hexatech.rs/privacy/farma
